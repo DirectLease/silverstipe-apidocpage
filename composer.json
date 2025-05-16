@@ -17,9 +17,7 @@
         }
     ],
     "require": {
-        "silverstripe/admin": "^1.6@dev"
-    },
-    "require-dev": {
+        "silverstripe/admin": "^2.4"
     },
     "autoload": {
         "psr-4": {
